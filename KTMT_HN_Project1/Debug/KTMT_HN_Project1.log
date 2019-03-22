@@ -1,0 +1,36 @@
+﻿Build started 3/22/2019 10:04:00 PM.
+     1>Project "D:\OneDrive - VNU-HCMUS\HCMUS\KTMT_HN\KTMT_HN_Project1\KTMT_HN_Project1\KTMT_HN_Project1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         E:\LapTrinh\C_Cpp\Visual Studio 2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt QFloat.cpp QInt.cpp main.cpp
+         main.cpp
+         QInt.cpp
+     1>d:\onedrive - vnu-hcmus\hcmus\ktmt_hn\ktmt_hn_project1\ktmt_hn_project1\qint.cpp(11): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>d:\onedrive - vnu-hcmus\hcmus\ktmt_hn\ktmt_hn_project1\ktmt_hn_project1\qint.cpp(28): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>d:\onedrive - vnu-hcmus\hcmus\ktmt_hn\ktmt_hn_project1\ktmt_hn_project1\qint.cpp(51): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>d:\onedrive - vnu-hcmus\hcmus\ktmt_hn\ktmt_hn_project1\ktmt_hn_project1\qint.cpp(255): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\onedrive - vnu-hcmus\hcmus\ktmt_hn\ktmt_hn_project1\ktmt_hn_project1\qint.cpp(264): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>d:\onedrive - vnu-hcmus\hcmus\ktmt_hn\ktmt_hn_project1\ktmt_hn_project1\qint.cpp(311): warning C4800: 'unsigned int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>d:\onedrive - vnu-hcmus\hcmus\ktmt_hn\ktmt_hn_project1\ktmt_hn_project1\qint.cpp(398): warning C4101: 'result' : unreferenced local variable
+         Generating Code...
+     1>d:\onedrive - vnu-hcmus\hcmus\ktmt_hn\ktmt_hn_project1\ktmt_hn_project1\qint.cpp(395): warning C4715: 'PlusTwoBit' : not all control paths return a value
+     1>d:\onedrive - vnu-hcmus\hcmus\ktmt_hn\ktmt_hn_project1\ktmt_hn_project1\qint.cpp(454): warning C4715: 'SubtTwoBit' : not all control paths return a value
+         Compiling...
+         QFloat.cpp
+     1>d:\onedrive - vnu-hcmus\hcmus\ktmt_hn\ktmt_hn_project1\ktmt_hn_project1\qfloat.cpp(47): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>d:\onedrive - vnu-hcmus\hcmus\ktmt_hn\ktmt_hn_project1\ktmt_hn_project1\qfloat.cpp(150): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\onedrive - vnu-hcmus\hcmus\ktmt_hn\ktmt_hn_project1\ktmt_hn_project1\qfloat.cpp(177): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\onedrive - vnu-hcmus\hcmus\ktmt_hn\ktmt_hn_project1\ktmt_hn_project1\qfloat.cpp(225): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>d:\onedrive - vnu-hcmus\hcmus\ktmt_hn\ktmt_hn_project1\ktmt_hn_project1\qfloat.cpp(239): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>d:\onedrive - vnu-hcmus\hcmus\ktmt_hn\ktmt_hn_project1\ktmt_hn_project1\qfloat.cpp(246): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>d:\onedrive - vnu-hcmus\hcmus\ktmt_hn\ktmt_hn_project1\ktmt_hn_project1\qfloat.cpp(253): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+         Generating Code...
+       Link:
+         E:\LapTrinh\C_Cpp\Visual Studio 2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\OneDrive - VNU-HCMUS\HCMUS\KTMT_HN\KTMT_HN_Project1\Debug\KTMT_HN_Project1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\OneDrive - VNU-HCMUS\HCMUS\KTMT_HN\KTMT_HN_Project1\Debug\KTMT_HN_Project1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\OneDrive - VNU-HCMUS\HCMUS\KTMT_HN\KTMT_HN_Project1\Debug\KTMT_HN_Project1.lib" /MACHINE:X86 Debug\main.obj
+         Debug\QFloat.obj
+         Debug\QInt.obj
+         KTMT_HN_Project1.vcxproj -> D:\OneDrive - VNU-HCMUS\HCMUS\KTMT_HN\KTMT_HN_Project1\Debug\KTMT_HN_Project1.exe
+     1>Done Building Project "D:\OneDrive - VNU-HCMUS\HCMUS\KTMT_HN\KTMT_HN_Project1\KTMT_HN_Project1\KTMT_HN_Project1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.79
